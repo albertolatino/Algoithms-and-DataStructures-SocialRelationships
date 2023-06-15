@@ -1,1 +1,1 @@
-# Algoithms-and-DataStructures-SocialRelationships
+# Algorithms-and-DataStructures-SocialRelationships
