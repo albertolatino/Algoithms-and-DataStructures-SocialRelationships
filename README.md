@@ -21,3 +21,6 @@ This project provides a custom data structure tailored for managing entities and
    - For each relationship type linked to an entity, two distinct subtrees are present. These subtrees denote:
      - Other entities that stand as the targets (destinations) of the relationship.
      - Other entities that act as the origins (sources) of the relationship.
+4. **Report Structure**
+   - The project features a data structure specifically tailored to generate reports on relationships among entities. This structure is incrementally updated to ensure optimal efficiency.
+   
