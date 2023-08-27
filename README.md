@@ -6,7 +6,7 @@ This project offers a custom data structure designed for the effective managemen
 
 ## **Features**
 
-- **Swift Operations**: Facilitates the swift addition and removal of entities and relationships.
+- Efficient addition and removal of entities and relationships.
 - **Optimized Efficiency**: Harnesses the power of Red-Black trees for top-tier efficiency.
 
 ## **Structure**
