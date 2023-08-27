@@ -7,7 +7,7 @@ This project offers a custom data structure designed for the effective managemen
 ## **Features**
 
 - Efficient addition and removal of entities and relationships.
-- : Harnesses the power of Red-Black trees for top-tier efficiency.
+- Combined utilization of Red-Black trees for optimal performance.
 
 ## **Structure**
 
